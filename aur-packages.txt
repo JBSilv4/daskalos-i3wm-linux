@@ -1,0 +1,5 @@
+cava
+ocs-url
+trash
+yay
+yay-debug
